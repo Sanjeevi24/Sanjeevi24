@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Sanjeevi24
-- 👀 I’m interested in ...Data analytics
-- 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...sanvasu@hotmail.com
+
 - 
 
 <!---
